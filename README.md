@@ -1,2 +1,3 @@
-# php-shell
-A curated, legendary archive of PHP web shells, backdoors, and uploaders for pentesters, red teamers, and cyber researchers. 
+# PHP Web Shell Archive
+Legendary PHP web shell archive for cyber warriors & researchers – educational and pentest use only.  
+Stay ethical. Stay underground.  
